@@ -1,0 +1,5 @@
+# Local editor/tooling config
+.claude/
+
+# Debug/contact-sheet artifacts
+images/_*.png
